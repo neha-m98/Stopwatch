@@ -16,7 +16,7 @@ To use the stopwatch in your project, follow these steps:
 
 1. Clone or download the repository to your local machine.
 
-2. Open the `index.html` file in a web browser.
+2. Open the `stopwatch.html` file in a web browser.
 
 3. The stopwatch UI will be displayed, showing the elapsed time as 00:00:00.
 
